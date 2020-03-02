@@ -10,4 +10,4 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 
 ## Final App
 
-![alt text](images\output.jpg)
+![alt text](https://raw.githubusercontent.com/KhaderMurtaja/Flutter-mi_card_app/master/images/output.jpg)
